@@ -1,0 +1,32 @@
+body{
+    background-color: #1f1f1f;
+    color: #bfbfbf;
+    height: 200vh;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.blueBox {
+    background:#627da0;
+    position: inherit;
+    top: 50px;
+    left: 50px;
+}
+
+.greenBox {
+    background:#5b8054;
+}
+.container{
+    background: rgba(0,0,0,0.4);
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
